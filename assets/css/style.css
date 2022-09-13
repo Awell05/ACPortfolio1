@@ -38,7 +38,7 @@ a{
 /* Avatar Section */
 
 #avatarsec{
-    background-color: yellow;
+    background-color:rgb(58, 55, 55);
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -47,18 +47,18 @@ a{
 }
 /* Subtitle */
 #subtitle{
-    background-color: red;
+    background-color: rgb(74, 226, 226);
     align-self: center;
     color:rgb(58, 55, 55)
 }
 
 #aboutme{
-    background-color: rgb(250, 9, 166);
+   
     display:flex;
     flex-direction: row;
 }
 .ab{
-    background-color: aquamarine;
+   color:rgb(37, 65, 138);
     width:70%;
     margin:30px;
     text-align: right;
@@ -66,7 +66,8 @@ a{
 }
 p{
     align-self: center;
-    background-color: rgb(43, 226, 104);
+    color:rgb(37, 65, 138);
+    
 }
 
 #work{background-color: rgb(250, 150, 9);
@@ -94,20 +95,15 @@ p{
 }
 /* Footer */
 footer{
-    background-color: rgb(13, 154, 39);
     display:flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-}
-
-#contactme{
-    background-color: beige;
-    
+    color:rgb(37, 65, 138);
 }
 
 footer a{
-    background-color: black;
+    color:rgb(37, 65, 138);
     display:inline;
     margin:10px;
 }
