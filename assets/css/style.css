@@ -52,7 +52,7 @@ a{
     color:rgb(58, 55, 55)
 }
 
-#aboutme{
+.aboutworkme{
    
     display:flex;
     flex-direction: row;
@@ -88,6 +88,7 @@ p{
 #firstimg{
     width:50%;
     border: solid rgb(74, 226, 226) 5px;
+    background-color: gray;
     margin: 5px;
 }
 #surfimg{
@@ -107,6 +108,7 @@ p{
     padding-top:30px;
 }
 .card{
+    background-color: gray;
     border: solid rgb(74, 226, 226) 3px;
     height: 100px;
     width: 260px;
