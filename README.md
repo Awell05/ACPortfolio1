@@ -2,7 +2,7 @@
 
 ## Description
 
-Take a look at my very first deployed web application built without a starter code. This presented several challenges but awarded me the opportunity to understanding CSS in more indepth. Flexbox and responsive design layouts were huge challenges for me that I was not able to fully execute. However, I do plan to continue improving this site as I gain more knowledge and skill in working with CSS. 
+Take a look at my very first deployed portfolio. Creating the portfolio presented several challenges but awarded me the opportunity to understanding CSS more. Flexbox and responsive design layouts were huge challenges for me that I was not able to fully execute. However, I will continue improving this site as I gain more knowledge and skill in working with CSS. 
 
 ## Table of Contents (Optional)
 n/a
