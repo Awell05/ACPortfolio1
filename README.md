@@ -14,21 +14,6 @@ N/A
 ## Usage
 
 N/A
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## Installation
-
-N/A
-
-## Usage
-
-The user can browse important notes from the following topics: HTML, CSS, Javascript, and Git. Opening Chrome Devtool (command + shift + I) for windows and (Command+Option+I) for MACOs will open the console listing all topics with a suggestion of which topic to review first. 
 
 ## Credits
 
