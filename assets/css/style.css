@@ -96,9 +96,11 @@ p{
     height:400px;
     width:100%;
 }
+#surfimg:hover{
+    background-color: rgb(228, 222, 222);
+}
 #surfimgtext{
     background-color:rgb(74, 226, 226);
-    color: rgb(37, 65, 138);
     margin: 0px;
     position: relative;
     top:350px;
@@ -118,6 +120,11 @@ p{
     margin-right: 8px;
     Margin-left:8px;
 }
+
+.card:hover{
+   background-color: rgb(228, 222, 222);
+}
+
 .imagetext{
 background-color: rgb(74, 226, 226);
 color: rgb(37, 65, 138);
@@ -129,8 +136,8 @@ top:110px;
 width:50%;
 left:12px;
 padding:8px;
-
 }
+
 #fourimg{
     display: flex;
     flex-flow:row wrap;
