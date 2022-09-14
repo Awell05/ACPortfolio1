@@ -3,6 +3,10 @@
     display:block;
     font-family:'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
 }
+
+#title  { 
+    display: none;
+}
 /* Header */
 header {
     display:flex;
@@ -71,7 +75,7 @@ p{
     
 }
 #workheader{
-    width:28%;
+    width:21%;
     text-align: right;
     border-right: 5px solid rgb(37, 65, 138);
     color:rgb(37, 65, 138);
@@ -86,13 +90,12 @@ p{
 }
 
 #firstimg{
-    width:50%;
+    width:75%;
     border: solid rgb(74, 226, 226) 5px;
     background-color: gray;
-    margin: 5px;
+    margin-left: 100px
 }
 #surfimg{
-
     height:400px;
     width:100%;
 }
@@ -140,7 +143,7 @@ padding:8px;
 
 #fourimg{
     display: flex;
-    flex-flow:row wrap;
+    flex-flow:column wrap;
     justify-content: center;
     width: 51%;
     height: 350px;
@@ -165,3 +168,10 @@ footer a{
     display:inline;
     margin:10px;
 }
+
+@media all and (min-width: 100px: ){
+    .card {
+        display: flex;
+        flex-flow: row wrap;
+    }
+} 
